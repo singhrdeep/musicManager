@@ -1,7 +1,7 @@
 
-# musicalLL – Linked List-Based Music Playlist Manager in C
+# musicManager – Basic Music Playlist Manager in C
 
-`musicalLL` is a command-line program built in C that allows users to manage musical playlists using linked lists. It supports operations such as adding, playing, searching, and deleting songs — all managed dynamically in memory. Each song includes an auto-generated ID, a name, and a fixed-length sequence of musical notes.
+`musicManager` is a command-line program built in C that allows users to manage musical playlists using linked lists. It supports operations such as adding, playing, searching, and deleting songs — all managed dynamically in memory. Each song includes an auto-generated ID, a name, and a fixed-length sequence of musical notes.
 
 This project was developed at the **University of Guelph** to explore dynamic memory management and linked list data structures in a real-world context.
 
@@ -29,7 +29,7 @@ This project was developed at the **University of Guelph** to explore dynamic me
 ## Folder Structure
 
 ```
-A3/
+musicManager/
 ├── bin/           # Compiled executable (musicalLL)
 ├── include/       # Header files (given.h)
 ├── src/           # Source files (one for each function, plus main)
@@ -59,7 +59,7 @@ make clean
 To run the program:
 
 ```bash
-./bin/musicalLL
+./bin/musicManager
 ```
 
 The menu will guide you through creating and managing your musical playlist.
