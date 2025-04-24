@@ -7,26 +7,26 @@ This project was developed at the **University of Guelph** to explore dynamic me
 
 ---
 
-## 📦 Features
+## Features
 
-- 🎵 Create and load playlists from CSV files
-- ➕ Add new songs to the beginning or end of a playlist
-- ▶️ Play songs by ID or name
-- 🔁 Display the entire playlist with all notes
-- 🔍 Count occurrences of specific notes
-- ❌ Delete individual songs or the full playlist
-- 🧭 Menu-driven interface with clear options
+- Create and load playlists from CSV files
+- Add new songs to the beginning or end of a playlist
+- Play songs by ID or name
+- Display the entire playlist with all notes
+- Count occurrences of specific notes
+- Delete individual songs or the full playlist
+- Menu-driven interface with clear options
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - GCC compiler (C99 standard)
 - Make utility
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 A3/
@@ -38,7 +38,7 @@ A3/
 
 ---
 
-## ⚙️ Build Instructions
+## Build Instructions
 
 To compile the project:
 
@@ -54,7 +54,7 @@ make clean
 
 ---
 
-## ▶️ Run Instructions
+## Run Instructions
 
 To run the program:
 
@@ -66,7 +66,7 @@ The menu will guide you through creating and managing your musical playlist.
 
 ---
 
-## 🧪 Functionality
+## Functionality
 
 - **Create Playlist:** Load songs from a CSV file into a linked list
 - **Add Song:** Dynamically create a song with a unique ID and random notes
@@ -76,6 +76,6 @@ The menu will guide you through creating and managing your musical playlist.
 
 ---
 
-## 📄 License
+## License
 
 This project is provided as-is for educational use. No license is currently specified.
