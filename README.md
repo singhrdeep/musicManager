@@ -3,8 +3,7 @@
 
 `musicManager` is a command-line program built in C that allows users to manage musical playlists using linked lists. It supports operations such as adding, playing, searching, and deleting songs — all managed dynamically in memory. Each song includes an auto-generated ID, a name, and a fixed-length sequence of musical notes.
 
-This project was developed at the **University of Guelph** to explore dynamic memory management and linked list data structures in a real-world context.
-
+This project was originally developed at the University of Guelph in C. While it was built in an academic setting, it has been adapted for public sharing and broader learning.
 ---
 
 ## Features
