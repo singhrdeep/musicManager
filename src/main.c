@@ -19,7 +19,7 @@ int main() {
 	int songId; // stores input for song id
 
 	// declare variables for task 5
-	char songName[MAX_LENGTH]; // stores input for song name
+	char songName[MAX_LENGTH]; // store input for song name
 	int length; // store song name
 
 	// declare variables for task 6
